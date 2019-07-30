@@ -12,6 +12,7 @@ CREATE TABLE cities (
 INSERT INTO cities (name, country) VALUES
 ('Hebron', 'Palestine'),
 ('Amman', 'Jordan'),
-('Berlin', 'Germany');
+('Berlin', 'Germany'),
+('Jericho','Palestine');
 
 COMMIT;
